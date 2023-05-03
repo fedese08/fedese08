@@ -10,7 +10,7 @@
 
 - 💻 Front End developer
 
-- Actualimente en Buenos Aires, Argentina 📍
+- Actualmente en Buenos Aires, Argentina 📍
 
 - 📫 Podes contactarme por correo **fedesena2000@gmail.com**
 
