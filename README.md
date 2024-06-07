@@ -14,7 +14,7 @@
 
 - 📫 Podes contactarme por correo **fedesena2000@gmail.com**
 
-- 🌐 Pasate por mi [Portfolio](https://fedevs.netlify.app/) 😉
+- 🌐 Pasate por mi [Portfolio](https://fedevs.vercel.app/) 😉
 
 
 ## Skills
